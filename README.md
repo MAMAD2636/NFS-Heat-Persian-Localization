@@ -2,8 +2,8 @@
 
 فارسی‌ساز رایگان و متن‌باز بازی **Need for Speed Heat** برای کامپیوتر (PC) که منوها و زیرنویس‌های بازی را به زبان فارسی برمی‌گرداند.
 
-* **صفحه ماد در NFSMods:** [دانلود از NFSMods](https://nfsmods.xyz)
-* **توسعه‌دهنده:** [MAMAD2636](https://github.com)
+* **صفحه ماد در NFSMods:** [دانلود از NFSMods](https://nfsmods.xyz/mod/8166)
+* **توسعه‌دهنده:** [MAMAD2636](https://github.com/MAMAD2636)
 * *توجه: این فارسی‌ساز فقط در این مخزن گیت‌هاب و صفحه رسمی NFSMods منتشر شده و کاملاً رایگان است.*
 
 ---
@@ -11,7 +11,7 @@
 ## ⚠️ مهم: رفع مشکل نسخه‌های بدون زبان عربی (FitGirl / DODI Repacks)
 این فارسی‌ساز بر پایه زبان عربی بازی ساخته شده است. اگر از ریپک‌های فشرده (مانند **FitGirl** یا **DODI**) استفاده می‌کنید و بازی شما زبان عربی ندارد، ابتدا باید پچ زبان عربی را نصب کنید:
 
-1. فایل فیکس را از بخش **[Releases (تگ fix)](https://github.com/NFS-Heat-Persian-Localization/releases/tag/fix)** دانلود و از حالت فشرده خارج کنید.
+1. فایل فیکس را از بخش **[Releases (تگ fix)](https://github.com/MAMAD2636/NFS-Heat-Persian-Localization/releases/tag/fix)** دانلود و از حالت فشرده خارج کنید.
 2. پوشه‌های `Data` و `Patch` را در محل نصب بازی (کنار فایل `NeedForSpeedHeat.exe`) کپی و جایگزین (Replace) نمایید.
 
 ---
@@ -34,12 +34,12 @@
 
 Free and open-source Persian localization mod for **Need for Speed Heat** on PC.
 
-* **Official NFSMods Page:** [Download on NFSMods](https://nfsmods.xyz)
-* **Author:** [MAMAD2636](https://github.com)
+* **Official NFSMods Page:** [Download on NFSMods](https://nfsmods.xyz/mod/8166)
+* **Author:** [MAMAD2636](https://github.com/MAMAD2636)
 
 ### ⚠️ Important: Fix for Repacks without Arabic Language (FitGirl / DODI)
 This mod uses the Arabic language structure as its base. If your copy of the game lacks the Arabic language files:
-1. Download the Arabic Language Pack from the **[Releases (`fix` tag)](https://github.com/NFS-Heat-Persian-Localization/releases/tag/fix)**.
+1. Download the Arabic Language Pack from the **[Releases (`fix` tag)](https://github.com/MAMAD2636/NFS-Heat-Persian-Localization/releases/tag/fix)**.
 2. Extract and copy the `Data` and `Patch` folders into your main game directory (where `NeedForSpeedHeat.exe` is located) and replace the files.
 
 ### 🛠 Installation Steps
